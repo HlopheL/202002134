@@ -1,0 +1,27 @@
+<student>
+  <name>Student 39</name>
+  <studentId>91117509</studentId>
+  <programme>Programme 2</programme>
+  <courses>
+    <course>
+      <name>Course 5</name>
+      <mark>5</mark>
+    </course>
+    <course>
+      <name>Course 2</name>
+      <mark>87</mark>
+    </course>
+    <course>
+      <name>Course 1</name>
+      <mark>29</mark>
+    </course>
+    <course>
+      <name>Course 4</name>
+      <mark>97</mark>
+    </course>
+    <course>
+      <name>Course 3</name>
+      <mark>68</mark>
+    </course>
+  </courses>
+</student>
